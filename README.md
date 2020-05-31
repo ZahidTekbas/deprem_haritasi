@@ -1,6 +1,13 @@
 # deprem_haritasi
 
-A new Flutter project.
+It shows that the latest earthquakes happened around Turkey. It indicates that using flutter_maps package and dialogs in an easy way by having futurebuilder and listview.builder at the same time. 
+
+To execute the app, you may create required files with 'flutter create .' command.
+
+<img src="ss1.png" width="350" height="700" />
+
+<img src="ss2.png" width="350" height="700" />
+
 
 ## Getting Started
 
